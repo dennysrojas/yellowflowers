@@ -38,7 +38,7 @@ for i in range(16):
 penup()
 goto(-15, -5)
 pendown()
-color("brown")
+color("grey")
 begin_fill()
 circle(40)  
 end_fill()
